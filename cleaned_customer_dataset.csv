@@ -1,0 +1,600 @@
+customer_name,country,city,total_amount_spent,total_rentals,first_rental_date,last_rental_date,top_category
+Eleanor Hunt,Runion,Saint-Denis,211.55,45,2005-06-01,2005-08-01,Sci-Fi
+Karl Seal,United States,Cape Coral,208.58,42,2005-06-01,2005-08-01,Animation
+Marion Snyder,Brazil,Santa Brbara dOeste,194.61,39,2005-06-01,2006-02-01,Drama
+Rhonda Kennedy,Netherlands,Apeldoorn,191.62,38,2005-06-01,2005-08-01,Games
+Clara Shaw,Belarus,Molodetno,189.6,40,2005-06-01,2005-08-01,Drama
+Tommy Collazo,Iran,Qomsheh,183.63,37,2005-06-01,2005-08-01,Family
+Ana Bradley,United States,Memphis,167.67,33,2005-06-01,2006-02-01,Family
+Curtis Irby,Canada,Richmond Hill,167.62,38,2005-06-01,2006-02-01,Family
+Marcia Dean,Philippines,Tanza,166.61,39,2005-06-01,2006-02-01,Foreign
+Mike Way,India,Valparai,162.67,33,2005-06-01,2005-08-01,Sci-Fi
+Arnold Havens,Philippines,Santa Rosa,161.68,32,2005-06-01,2005-08-01,Games
+Wesley Bull,Spain,Ourense (Orense),158.65,35,2005-06-01,2005-08-01,Games
+Gordon Allard,Yemen,Hodeida,157.69,31,2005-06-01,2005-08-01,Action
+Louis Leone,Philippines,Tanauan,156.66,34,2005-06-01,2006-02-01,Animation
+Tim Cary,India,Bijapur,154.66,34,2005-06-01,2005-08-01,Animation
+Lena Jensen,India,Halisahar,152.71,29,2005-06-01,2005-08-01,Sports
+Warren Sherrod,Russian Federation,Usolje-Sibirskoje,152.69,31,2005-06-01,2005-08-01,Horror
+Steve Mackenzie,Indonesia,Probolinggo,152.68,32,2005-06-01,2005-08-01,Action
+Brittany Riley,Ukraine,Sumy,151.73,27,2005-06-01,2005-08-01,Classics
+Guy Brownlee,China,Zhoushan,151.69,31,2005-06-01,2006-02-01,Family
+June Carroll,Algeria,Skikda,151.68,32,2005-06-01,2005-08-01,Comedy
+Neil Renner,Vietnam,Cam Ranh,149.69,31,2005-06-01,2006-02-01,Drama
+Tammy Sanders,Taiwan,Changhwa,149.61,39,2005-06-01,2006-02-01,Family
+Tonya Chapman,India,Bhilwara,147.71,29,2005-06-01,2005-08-01,Action
+Michelle Clark,Bangladesh,Tangail,146.68,32,2005-06-01,2006-02-01,Sci-Fi
+Jessica Hall,Holy See (Vatican City State),Citt del Vaticano,146.68,32,2005-06-01,2005-08-01,Documentary
+Jacqueline Long,Thailand,Songkhla,146.68,32,2005-06-01,2005-08-01,Drama
+Stacey Montgomery,China,Fuyu,146.67,33,2005-06-01,2006-02-01,Music
+Arthur Simpkins,Russian Federation,Maikop,145.7,30,2005-06-01,2005-08-01,Family
+Brandon Huey,Turkey,Balikesir,145.64,36,2005-06-01,2006-02-01,Sports
+Diane Collins,Sudan,Omdurman,144.7,30,2005-06-01,2005-08-01,Foreign
+Ralph Madrigal,Puerto Rico,Arecibo,144.68,32,2005-06-01,2005-08-01,New
+Roger Quintanilla,Taiwan,Hsichuh,144.66,34,2005-06-01,2005-08-01,Animation
+Duane Tubbs,Nauru,Yangor,143.7,30,2005-06-01,2005-08-01,Horror
+Alex Gresham,Mexico,Uruapan,143.68,32,2005-06-01,2005-08-01,Sports
+Ryan Salisbury,Latvia,Daugavpils,142.7,30,2005-06-01,2005-08-01,Sports
+Shawn Heaton,Thailand,Nakhon Sawan,142.69,31,2005-06-01,2005-08-01,Animation
+Margie Wade,China,Lengshuijiang,142.67,33,2005-06-01,2006-02-01,New
+Marsha Douglas,Mozambique,Beira,142.66,34,2005-06-01,2005-08-01,Documentary
+Debra Nelson,Brazil,Vila Velha,141.71,29,2005-06-01,2005-08-01,New
+Lori Wood,India,Rae Bareli,141.69,31,2005-06-01,2005-08-01,Sports
+Nicholas Barfield,Brazil,Belm,140.69,31,2005-06-01,2005-08-01,Sports
+Roy Whiting,Kenya,Nyeri,139.72,28,2005-06-01,2005-08-01,Action
+Sherry Marshall,Egypt,Shubra al-Khayma,139.69,31,2005-06-01,2005-08-01,Sci-Fi
+Harry Arce,Iran,Najafabad,139.69,31,2005-06-01,2005-08-01,Comedy
+Janice Ward,Sweden,Malm,139.67,33,2005-06-01,2005-08-01,Classics
+Tanya Gilbert,South Korea,Naju,138.69,31,2005-06-01,2005-08-01,Classics
+Angela Hernandez,Japan,Shimonoseki,138.65,35,2005-06-01,2006-02-01,Children
+Wanda Patterson,Colombia,Sincelejo,137.72,28,2005-06-01,2006-02-01,Action
+Marilyn Ross,Nigeria,Ife,137.7,30,2005-06-01,2006-02-01,New
+Alexander Fennell,Italy,Bergamo,137.67,33,2005-06-01,2005-08-01,Family
+Jimmie Eggleston,Poland,Wroclaw,135.72,28,2005-06-01,2005-08-01,Comedy
+Ramon Choate,Ecuador,Robamba,135.7,30,2005-06-01,2005-08-01,Sports
+Morris Mccarter,Taiwan,Fengshan,135.68,32,2005-06-01,2006-02-01,New
+Kent Arsenault,Brazil,Juiz de Fora,134.73,27,2005-06-01,2005-08-01,Sports
+Alvin Deloach,Mexico,Cuauhtmoc,134.72,28,2005-06-01,2005-08-01,Children
+Zachary Hite,United States,Akron,134.71,29,2005-06-01,2006-02-01,Horror
+Sylvia Ortiz,Colombia,Dos Quebradas,134.7,30,2005-06-01,2006-02-01,Action
+Ella Oliver,Yemen,Aden,134.7,30,2005-06-01,2005-08-01,New
+Rosemary Schmidt,Turkey,Usak,134.69,31,2005-06-01,2005-08-01,Horror
+Helen Harris,India,Bhopal,134.68,32,2005-06-01,2006-02-01,Foreign
+Elizabeth Brown,Taiwan,Nantou,134.65,35,2005-06-01,2006-02-01,Classics
+Joe Gilliland,Philippines,Imus,133.72,28,2005-06-01,2006-02-01,Foreign
+Stanley Scroggins,Japan,Omiya,133.71,29,2005-06-01,2005-08-01,Foreign
+Bernice Willis,Turkey,Batman,133.7,30,2005-06-01,2005-08-01,Action
+Sue Peters,China,Changzhou,133.68,32,2005-06-01,2005-08-01,Comedy
+Jennie Terry,Czech Republic,Olomouc,132.72,28,2005-06-01,2005-08-01,New
+Jessie Milam,China,Binzhou,132.7,30,2005-06-01,2006-02-01,Sports
+Russell Brinson,Poland,Tychy,132.65,35,2005-06-01,2005-08-01,Foreign
+Greg Robins,Vietnam,Nam Dinh,131.74,26,2005-06-01,2006-02-01,Music
+Karen Jackson,Turkey,Osmaniye,131.73,27,2005-06-01,2005-08-01,Classics
+Ethel Webb,South Africa,Boksburg,131.69,31,2005-06-01,2005-08-01,Documentary
+Catherine Campbell,Russian Federation,Moscow,131.69,31,2005-06-01,2005-08-01,Animation
+Linda Williams,Greece,Athenai,130.76,24,2005-06-01,2005-08-01,Action
+Maria Miller,Yugoslavia,Kragujevac,130.72,28,2005-06-01,2005-08-01,Animation
+Priscilla Lowe,Mexico,Salamanca,130.72,28,2005-07-01,2005-08-01,Sci-Fi
+Brett Cornwell,India,Siliguri (Shiliguri),130.7,30,2005-06-01,2005-08-01,Documentary
+Harold Martino,Brazil,Boa Vista,130.68,32,2005-06-01,2005-08-01,Classics
+Casey Mena,Turkey,Tokat,130.68,32,2005-06-01,2005-08-01,Animation
+Rosa Reynolds,United States,Lancaster,129.72,28,2005-06-01,2005-08-01,Classics
+Jordan Archuleta,Argentina,Avellaneda,129.71,29,2005-06-01,2006-02-01,Action
+Crystal Ford,Israel,Ashdod,129.7,30,2005-06-01,2005-08-01,Sci-Fi
+Regina Berry,China,Jinchang,129.68,32,2005-06-01,2006-02-01,Foreign
+Roberto Vu,China,Yinchuan,128.73,27,2005-06-01,2005-08-01,Drama
+Glenda Frazier,China,Qinhuangdao,128.71,29,2005-06-01,2005-08-01,New
+Gladys Hamilton,Nigeria,Ilorin,128.71,29,2005-06-01,2005-08-01,Animation
+Sara Perry,Mexico,Atlixco,128.7,30,2005-06-01,2005-08-01,Animation
+Alma Austin,Germany,Mannheim,128.69,31,2005-06-01,2005-08-01,Animation
+Miguel Betancourt,Germany,Erlangen,127.73,27,2005-06-01,2006-02-01,Travel
+Bessie Morrison,Italy,Syrakusa,127.73,27,2005-06-01,2005-08-01,Drama
+Mitchell Westmoreland,Vietnam,Nha Trang,127.69,31,2005-06-01,2005-08-01,Drama
+Debbie Reyes,Japan,Fukuyama,127.69,31,2005-06-01,2005-08-01,Children
+Martha Gonzalez,Moldova,Chisinau,127.66,34,2005-06-01,2005-08-01,Children
+Jeanne Lawson,Turkmenistan,Ashgabat,126.74,26,2005-06-01,2006-02-01,Games
+Terri Vasquez,Brazil,Blumenau,126.73,27,2005-06-01,2005-08-01,New
+Troy Quigley,Canada,Vancouver,126.73,27,2005-06-01,2005-08-01,Animation
+Jamie Rice,United States,Sterling Heights,126.73,27,2005-06-01,2005-08-01,Music
+Tracy Cole,Mexico,Huixquilucan,126.72,28,2005-06-01,2006-02-01,Sci-Fi
+Grace Ellis,Germany,Duisburg,126.7,30,2005-06-01,2006-02-01,Foreign
+Maurice Crawley,Mexico,Coatzacoalcos,125.74,26,2005-06-01,2005-08-01,Foreign
+Bradley Motley,India,Purnea (Purnia),125.74,26,2005-06-01,2005-08-01,Horror
+Daisy Bates,Russian Federation,Kolpino,125.72,28,2005-07-01,2006-02-01,Foreign
+Joanne Robertson,Japan,Urawa,125.68,32,2005-06-01,2005-08-01,Action
+Justin Ngo,Brazil,Santo Andr,125.67,33,2005-06-01,2006-02-01,Documentary
+Janet Phillips,Chile,Antofagasta,124.74,26,2005-06-01,2005-08-01,Action
+Julia Flores,Argentina,La Plata,124.71,29,2005-06-01,2005-08-01,Documentary
+Elsie Kelley,Nigeria,Ikerre,124.68,32,2005-06-01,2005-08-01,Documentary
+Carrie Porter,China,Liaocheng,124.66,34,2005-06-01,2005-08-01,Children
+Patricia Johnson,United States,San Bernardino,123.74,26,2005-06-01,2005-08-01,Sports
+John Farnsworth,India,Parbhani,123.74,26,2005-07-01,2006-02-01,Documentary
+Leslie Seward,Indonesia,Pontianak,123.72,28,2005-06-01,2005-08-01,Action
+Billy Poulin,Philippines,Cabuyao,123.71,29,2005-06-01,2005-08-01,Sports
+Shirley Allen,Philippines,Davao,123.7,30,2005-06-01,2005-08-01,Foreign
+Alice Stewart,United States,Fontana,123.7,30,2005-06-01,2005-08-01,Action
+Melissa King,Taiwan,Lungtan,123.66,34,2005-06-01,2005-08-01,Drama
+Tina Simmons,Brazil,Goinia,122.74,26,2005-06-01,2005-08-01,Drama
+Eddie Tomlin,Philippines,Ozamis,122.74,26,2005-06-01,2005-08-01,Animation
+Javier Elrod,Chad,NDjamna,122.72,28,2005-06-01,2005-08-01,Sci-Fi
+Cathy Spencer,Japan,Kakamigahara,122.71,29,2005-06-01,2006-02-01,Sports
+Viola Hanson,Philippines,Lapu-Lapu,122.7,30,2005-06-01,2006-02-01,Comedy
+Jorge Olivares,Indonesia,Lhokseumawe,122.69,31,2005-06-01,2005-08-01,Foreign
+Milton Howland,India,Vijayawada,121.77,23,2005-06-01,2006-02-01,Action
+Lynn Payne,Malawi,Lilongwe,121.73,27,2005-06-01,2005-08-01,Classics
+Gilbert Sledge,United Kingdom,York,121.73,27,2005-06-01,2006-02-01,Family
+Jim Rea,Mexico,El Fuerte,121.7,30,2005-06-01,2005-08-01,Sci-Fi
+Barry Lovelace,Zambia,Kitwe,121.7,30,2005-06-01,2006-02-01,Animation
+Nathan Runyon,"Virgin Islands, U.S.",Charlotte Amalie,121.69,31,2005-06-01,2005-08-01,Animation
+Rick Mattox,Egypt,Mit Ghamr,120.75,25,2005-06-01,2005-08-01,Sports
+Dana Hart,Russian Federation,Kirovo-Tepetsk,120.74,26,2005-06-01,2005-08-01,Family
+Alfred Casillas,Egypt,Sawhaj,120.74,26,2005-06-01,2005-08-01,Drama
+Marc Outlaw,Italy,Brindisi,120.71,29,2005-06-01,2005-08-01,Classics
+Thelma Murray,Peru,Lima,120.7,30,2005-06-01,2005-08-01,Sports
+Cheryl Murphy,India,Mysore,119.76,24,2005-06-01,2005-08-01,New
+Alan Kahn,China,Emeishan,119.75,25,2005-06-01,2005-08-01,Classics
+Hector Poindexter,Russian Federation,Pjatigorsk,119.74,26,2005-06-01,2005-08-01,Documentary
+Gertrude Castillo,Greenland,Nuuk,119.72,28,2005-06-01,2005-08-01,New
+Charles Kowalski,Malaysia,Sungai Petani,119.72,28,2005-07-01,2005-08-01,Sci-Fi
+Kathryn Coleman,Ukraine,Simferopol,118.76,24,2005-06-01,2005-08-01,Animation
+Tracy Herrmann,Ecuador,Loja,118.75,25,2005-06-01,2005-08-01,Comedy
+Stephanie Mitchell,Armenia,Yerevan,118.75,25,2005-06-01,2006-02-01,Animation
+Jaime Nettles,Peru,Hunuco,118.73,27,2005-06-01,2005-08-01,Travel
+Virginia Green,France,Toulouse,118.7,30,2005-06-01,2005-08-01,Action
+Marjorie Tucker,Poland,Jastrzebie-Zdrj,118.7,30,2005-06-01,2005-08-01,Animation
+Joy George,Romania,Botosani,118.69,31,2005-06-01,2005-08-01,Sci-Fi
+Marshall Thorn,United Kingdom,Southampton,117.77,23,2005-06-01,2005-08-01,Games
+Miriam Mckinney,Japan,Otsu,117.77,23,2005-07-01,2005-08-01,Sci-Fi
+Perry Swafford,Argentina,Quilmes,117.76,24,2005-06-01,2006-02-01,Sports
+Nathaniel Adam,United States,Joliet,117.75,25,2005-06-01,2005-08-01,Drama
+Lee Hawks,India,Pudukkottai,117.75,25,2005-06-01,2006-02-01,Sci-Fi
+Byron Box,Kazakstan,Zhezqazghan,117.72,28,2005-06-01,2005-08-01,Horror
+Joyce Edwards,Saudi Arabia,Jedda,116.76,24,2005-06-01,2005-08-01,Family
+Valerie Black,United States,Brockton,116.75,25,2005-06-01,2005-08-01,Sports
+Terry Carlson,Japan,Miyakonojo,116.74,26,2005-06-01,2005-08-01,Animation
+Naomi Jennings,India,Karnal,116.73,27,2005-07-01,2006-02-01,New
+Hilda Hopkins,Philippines,Mandaluyong,116.73,27,2005-06-01,2006-02-01,Sci-Fi
+Kathy James,Philippines,Baybay,116.72,28,2005-06-01,2005-08-01,Music
+Gerald Fultz,India,Satna,116.71,29,2005-06-01,2005-08-01,Foreign
+Cecil Vines,United Kingdom,London,115.74,26,2005-06-01,2006-02-01,Drama
+Gloria Cook,French Polynesia,Papeete,115.74,26,2005-06-01,2006-02-01,Classics
+Erik Guillen,India,Bhimavaram,115.72,28,2005-06-01,2005-08-01,Sci-Fi
+Philip Causey,Russian Federation,Korolev,115.71,29,2005-06-01,2005-08-01,Foreign
+Veronica Stone,United States,Greensboro,115.7,30,2005-06-01,2005-08-01,Animation
+Dianne Shelton,Iran,Tabriz,114.76,24,2005-07-01,2006-02-01,Sci-Fi
+Teresa Rogers,Japan,Iwakuni,114.74,26,2005-06-01,2005-08-01,Animation
+Patsy Davidson,Ecuador,Portoviejo,114.73,27,2005-06-01,2005-08-01,Family
+Salvador Teel,Gambia,Banjul,114.73,27,2005-06-01,2005-08-01,Comedy
+Florence Woods,Argentina,Merlo,114.72,28,2005-06-01,2006-02-01,Sci-Fi
+Craig Morrell,Philippines,Cavite,114.72,28,2005-06-01,2006-02-01,Animation
+Mary Smith,Japan,Sasebo,114.7,30,2005-06-01,2005-08-01,Classics
+Don Bone,Mozambique,Naala-Porto,113.77,23,2005-07-01,2005-08-01,Foreign
+Christopher Greco,Italy,Brescia,113.75,25,2005-07-01,2005-08-01,Children
+Nora Herrera,Austria,Salzburg,113.74,26,2005-06-01,2005-08-01,Drama
+Michael Silverman,China,Tiefa,113.74,26,2005-07-01,2005-08-01,Animation
+Amber Dixon,Taiwan,Touliu,113.73,27,2005-06-01,2005-08-01,Games
+Dave Gardiner,China,Leshan,113.73,27,2005-06-01,2005-08-01,Sports
+Jeffery Pinson,Pakistan,Dadu,113.72,28,2005-06-01,2005-08-01,Classics
+George Linton,Brazil,Sorocaba,113.71,29,2005-07-01,2005-08-01,Sports
+Christy Vargas,China,Datong,113.7,30,2005-06-01,2005-08-01,Music
+Tyrone Asher,Bulgaria,Ruse,112.76,24,2005-06-01,2005-08-01,Documentary
+Andy Vanhorn,Mexico,Huejutla de Reyes,112.76,24,2005-06-01,2006-02-01,Sci-Fi
+Ashley Richardson,United States,Lincoln,112.75,25,2005-06-01,2005-08-01,New
+Amy Lopez,India,Jhansi,112.74,26,2005-06-01,2005-08-01,Family
+Monica Hicks,Ukraine,Mukateve,112.73,27,2005-06-01,2005-08-01,Action
+Clyde Tobias,China,Shaoguan,112.72,28,2005-06-01,2005-08-01,Travel
+Calvin Martel,Venezuela,Maracabo,111.77,23,2005-06-01,2005-08-01,New
+Arlene Harvey,India,Ambattur,111.76,24,2005-06-01,2005-08-01,Games
+Jerry Jordon,Japan,Onomichi,111.76,24,2005-07-01,2006-02-01,Sci-Fi
+Clifton Malcolm,Taiwan,Tanshui,111.74,26,2005-06-01,2005-08-01,Action
+Audrey Ray,Austria,Graz,111.73,27,2005-06-01,2005-08-01,Documentary
+Daryl Larue,Iraq,Mosul,111.73,27,2005-06-01,2006-02-01,Sports
+Cindy Fisher,Venezuela,Cuman,111.73,27,2005-06-01,2005-08-01,Documentary
+Terrance Roush,Hungary,Szkesfehrvr,111.71,29,2005-06-01,2006-02-01,Sci-Fi
+Carolyn Perez,Thailand,Pak Kret,111.71,29,2005-06-01,2006-02-01,Sci-Fi
+Holly Fox,India,Haldia,111.71,29,2005-06-01,2006-02-01,Foreign
+Jamie Waugh,Japan,Kuwana,110.77,23,2005-06-01,2005-08-01,Sports
+Charlie Bess,China,Baiyin,110.76,24,2005-06-01,2006-02-01,Action
+Myrtle Fleming,Dominican Republic,Santiago de los Caballeros,110.76,24,2005-06-01,2005-08-01,Drama
+Andre Rapp,Chile,Coquimbo,110.74,26,2005-06-01,2005-08-01,Classics
+Gina Williamson,Yemen,Taizz,110.73,27,2005-06-01,2006-02-01,Family
+Michele Grant,China,Yuncheng,110.73,27,2005-06-01,2005-08-01,Sci-Fi
+Everett Banda,Egypt,Bilbays,110.72,28,2005-06-01,2005-08-01,Family
+Ruby Washington,China,Meixian,110.72,28,2005-06-01,2005-08-01,Music
+Terrence Gunderson,China,Jinzhou,110.71,29,2005-06-01,2005-08-01,Documentary
+Heidi Larson,China,Xiangfan,110.68,32,2005-06-01,2005-08-01,New
+Beatrice Arnold,India,Udaipur,109.77,23,2005-06-01,2005-08-01,Sci-Fi
+Fernando Churchill,South Korea,Tonghae,109.77,23,2005-06-01,2005-08-01,Music
+Isaac Oglesby,Mexico,Cuernavaca,109.76,24,2005-06-01,2005-08-01,Music
+Charlene Alvarez,Tanzania,Zanzibar,109.75,25,2005-06-01,2005-08-01,New
+Ted Breaux,China,Baicheng,109.73,27,2005-06-01,2005-08-01,Sports
+Clifford Bowens,Russian Federation,Nabereznyje Telny,109.73,27,2005-06-01,2005-08-01,Comedy
+Randy Gaither,Russian Federation,Kurgan,109.73,27,2005-06-01,2005-08-01,Classics
+Theodore Culp,India,Uluberia,109.72,28,2005-06-01,2005-08-01,Foreign
+Todd Tan,Ukraine,Kamjanets-Podilskyi,109.72,28,2005-06-01,2005-08-01,Children
+Herman Devore,Tanzania,Mwanza,109.72,28,2005-06-01,2005-08-01,Games
+Kyle Spurlock,China,Shanwei,109.71,29,2005-06-01,2006-02-01,Drama
+Sonia Gregory,Nigeria,Benin City,108.78,22,2005-07-01,2006-02-01,Foreign
+Eduardo Hiatt,China,Jining,108.77,23,2005-06-01,2005-08-01,Sports
+Olga Jimenez,Nigeria,Ogbomosho,108.76,24,2005-07-01,2005-08-01,Sports
+Seth Hannon,Bahrain,al-Manama,108.76,24,2005-06-01,2006-02-01,Sports
+Gabriel Harder,Turkey,Sivas,108.75,25,2005-06-01,2005-08-01,Family
+Raymond Mcwhorter,Azerbaijan,Sumqayit,108.75,25,2005-07-01,2006-02-01,Foreign
+Julian Vest,Japan,Akishima,108.73,27,2005-06-01,2005-08-01,Children
+Minnie Romero,Indonesia,Ciomas,108.72,28,2005-06-01,2005-08-01,Animation
+Sally Pierce,India,Chandrapur,108.71,29,2005-06-01,2005-08-01,Music
+Mae Fletcher,Spain,Donostia-San Sebastin,107.79,21,2005-07-01,2005-08-01,Sports
+Johnnie Chisholm,Poland,Plock,107.78,22,2005-06-01,2005-08-01,Sports
+Jesus Mccartney,Brazil,Guaruj,107.77,23,2005-06-01,2005-08-01,Documentary
+Sandra Martin,United Kingdom,Southend-on-Sea,107.76,24,2005-06-01,2005-08-01,Sports
+Stephen Qualls,Bangladesh,Dhaka,107.74,26,2005-07-01,2005-08-01,Drama
+Lucille Holmes,South Africa,Soshanguve,107.73,27,2005-06-01,2005-08-01,Animation
+Marion Ocampo,China,Weifang,107.73,27,2005-06-01,2005-08-01,Classics
+Mario Cheatham,Algeria,Batna,107.73,27,2005-06-01,2006-02-01,New
+Darlene Rose,North Korea,Pyongyang,107.71,29,2005-06-01,2005-08-01,Documentary
+Jeff East,Dominican Republic,San Felipe de Puerto Plata,107.7,30,2005-06-01,2005-08-01,Foreign
+Maxine Silva,Brazil,Poos de Caldas,107.7,30,2005-06-01,2005-08-01,Sci-Fi
+Lois Butler,Brunei,Bandar Seri Begawan,107.66,34,2005-06-01,2006-02-01,Sports
+Dan Paine,United Kingdom,Stockport,106.79,21,2005-06-01,2005-08-01,Sports
+Marlene Welch,Japan,Iwaki,106.77,23,2005-06-01,2005-08-01,New
+Douglas Graf,Mexico,Mexicali,106.77,23,2005-06-01,2005-08-01,Family
+Gail Knight,Switzerland,Bern,106.76,24,2005-06-01,2006-02-01,Documentary
+Claudia Fuller,Kuwait,Jalib al-Shuyukh,106.75,25,2005-06-01,2006-02-01,Foreign
+Dean Sauer,South Africa,Johannesburg,106.74,26,2005-06-01,2005-08-01,Music
+Victoria Gibson,Indonesia,Pemalang,106.74,26,2005-06-01,2005-08-01,Family
+Bill Gavin,United States,Rockford,106.73,27,2005-06-01,2006-02-01,Drama
+Erin Dunn,Russian Federation,Ljubertsy,106.73,27,2005-06-01,2005-08-01,Documentary
+Sarah Lewis,Latvia,Liepaja,106.73,27,2005-06-01,2006-02-01,Sci-Fi
+Julie Sanchez,Spain,A Corua (La Corua),106.72,28,2005-06-01,2006-02-01,Documentary
+Hazel Warren,China,Hohhot,106.68,32,2005-06-01,2005-08-01,Sports
+Sam Mcduffie,Colombia,Sogamoso,105.78,22,2005-06-01,2005-08-01,Animation
+Eric Robert,Argentina,Santa F,105.78,22,2005-07-01,2005-08-01,Drama
+Elaine Stevens,Russian Federation,Smolensk,105.78,22,2005-06-01,2005-08-01,Travel
+Shelly Watts,United States,Dayton,105.77,23,2005-07-01,2005-08-01,Action
+Katie Elliott,Kenya,Kisumu,105.77,23,2005-06-01,2006-02-01,Games
+Jean Bell,Malaysia,Kuching,105.76,24,2005-06-01,2006-02-01,Action
+Bryan Hardison,United States,Dallas,105.76,24,2005-06-01,2005-08-01,Comedy
+Earl Shanks,Japan,Iwatsuki,105.74,26,2005-06-01,2005-08-01,Documentary
+Amanda Carter,Morocco,Nador,105.74,26,2005-06-01,2005-08-01,Documentary
+Diana Alexander,United States,Augusta-Richmond County,105.73,27,2005-06-01,2005-08-01,Documentary
+Marcus Hidalgo,Estonia,Tartu,105.72,28,2005-06-01,2005-08-01,Family
+Cynthia Young,India,Munger (Monghyr),105.7,30,2005-06-01,2006-02-01,Drama
+Carl Artis,Paraguay,San Lorenzo,104.79,21,2005-06-01,2005-08-01,Horror
+Brent Harkins,Turkey,Sultanbeyli,104.78,22,2005-06-01,2006-02-01,Horror
+Violet Rodriquez,Hong Kong,Kowloon and New Kowloon,104.76,24,2005-07-01,2005-08-01,Sports
+Dolores Wagner,Malaysia,Ipoh,104.75,25,2005-06-01,2005-08-01,Children
+Josephine Gomez,India,Etawah,104.75,25,2005-06-01,2005-08-01,Action
+Brenda Wright,India,Kamarhati,104.74,26,2005-06-01,2005-08-01,Foreign
+Dale Ratcliff,South Africa,Rustenburg,104.74,26,2005-06-01,2005-08-01,New
+Deborah Walker,Pakistan,Shikarpur,104.73,27,2005-06-01,2005-08-01,Action
+Jimmy Schrader,Russian Federation,Atinsk,104.72,28,2005-06-01,2005-08-01,Travel
+Leroy Bustamante,China,Tongliao,104.71,29,2005-06-01,2005-08-01,Animation
+Peter Menard,Netherlands,Ede,103.78,22,2005-06-01,2005-08-01,New
+Ramona Hale,India,Patiala,103.77,23,2005-07-01,2006-02-01,Sports
+Tracey Barrett,Nigeria,Owo,103.77,23,2005-07-01,2005-08-01,New
+Carla Gutierrez,India,Bhusawal,103.74,26,2005-06-01,2005-08-01,Animation
+Kristin Johnston,United States,Sunnyvale,103.74,26,2005-06-01,2006-02-01,Sports
+Courtney Day,South Korea,Uijongbu,103.74,26,2005-06-01,2006-02-01,Children
+Manuel Murrell,Sri Lanka,Jaffna,103.73,27,2005-06-01,2005-08-01,Children
+Sharon Robinson,Pakistan,Mardan,103.73,27,2005-06-01,2005-08-01,New
+Misty Lambert,United Arab Emirates,Sharja,102.78,22,2005-07-01,2005-08-01,Travel
+Max Pitt,Yugoslavia,Novi Sad,102.77,23,2005-06-01,2005-08-01,Sci-Fi
+Ben Easter,Russian Federation,Kamyin,102.77,23,2005-06-01,2005-08-01,Children
+Lillian Griffin,United Arab Emirates,al-Ayn,102.76,24,2005-06-01,2005-08-01,Sports
+Sergio Stanfield,Mexico,Celaya,102.76,24,2005-06-01,2006-02-01,Documentary
+Ellen Simpson,Brazil,Po,102.75,25,2005-06-01,2005-08-01,Action
+Yolanda Weaver,Tanzania,Tabora,102.75,25,2005-06-01,2006-02-01,Family
+Marie Turner,Russian Federation,Lipetsk,101.79,21,2005-06-01,2006-02-01,Animation
+Leo Ebert,China,Dongying,101.78,22,2005-06-01,2005-08-01,Games
+Robin Hayes,Russian Federation,Jelets,101.77,23,2005-06-01,2006-02-01,Animation
+Rene Mcalister,United States,Garden Grove,101.76,24,2005-06-01,2005-08-01,Horror
+Renee Lane,United States,Compton,101.72,28,2005-06-01,2005-08-01,Games
+Leonard Schofield,Argentina,Tandil,101.7,30,2005-06-01,2006-02-01,Documentary
+Glen Talbert,Mexico,Acua,100.77,23,2005-06-01,2005-08-01,Drama
+Sidney Burleson,Poland,Czestochowa,100.76,24,2005-06-01,2005-08-01,Sports
+Brad Mccurdy,Taiwan,Chungho,100.76,24,2005-06-01,2005-08-01,Drama
+Willie Howell,Argentina,Vicente Lpez,100.75,25,2005-06-01,2006-02-01,Sci-Fi
+Vickie Brewer,Germany,Halle/Saale,100.75,25,2005-06-01,2006-02-01,Sci-Fi
+Juanita Mason,India,Pune,100.72,28,2005-06-01,2006-02-01,Children
+Ron Deluca,Japan,Isesaki,99.78,22,2005-06-01,2005-08-01,New
+Lisa Anderson,Japan,Sagamihara,99.77,23,2005-06-01,2006-02-01,Games
+Sherri Rhodes,India,Ahmadnagar,99.74,26,2005-07-01,2005-08-01,Sci-Fi
+Evelyn Morgan,Liechtenstein,Vaduz,99.74,26,2005-06-01,2005-08-01,Action
+Ken Prewitt,Romania,Bucuresti,99.73,27,2005-06-01,2005-08-01,Horror
+Angel Barclay,Japan,Ueda,99.72,28,2005-06-01,2005-08-01,Sci-Fi
+Tom Milner,United Arab Emirates,Abu Dhabi,99.71,29,2005-06-01,2006-02-01,Drama
+Bobby Boudreau,Anguilla,South Hill,99.68,32,2005-06-01,2005-08-01,Travel
+Ruth Martinez,South Africa,Kimberley,98.82,18,2005-06-01,2005-08-01,Sports
+Frank Waggoner,Bangladesh,Jamalpur,98.77,23,2005-07-01,2005-08-01,Music
+Clinton Buford,United States,Aurora,98.76,24,2005-06-01,2006-02-01,Children
+Annette Olson,India,Allappuzha (Alleppey),98.76,24,2005-06-01,2006-02-01,New
+Francis Sikes,Mexico,San Juan Bautista Tuxtepec,98.75,25,2005-06-01,2005-08-01,Travel
+Gwendolyn May,Japan,Higashiosaka,98.75,25,2005-06-01,2006-02-01,Sci-Fi
+Jeremy Hurtado,Brazil,Vitria de Santo Anto,98.75,25,2005-06-01,2006-02-01,Travel
+Ross Grey,Philippines,Iligan,98.74,26,2005-06-01,2005-08-01,Foreign
+Adam Gooch,India,Adoni,97.8,20,2005-06-01,2005-08-01,Foreign
+Rose Howard,French Guiana,Cayenne,97.8,20,2005-06-01,2005-08-01,Animation
+Leon Bostic,Colombia,Florencia,97.79,21,2005-06-01,2005-08-01,Animation
+Pedro Chestnut,Ukraine,ostka,97.78,22,2005-07-01,2005-08-01,Games
+Rodney Moeller,Nigeria,Deba Habe,97.78,22,2005-06-01,2005-08-01,Games
+Laurie Lawrence,India,Firozabad,97.78,22,2005-06-01,2006-02-01,Horror
+Wallace Slone,Nigeria,Sokoto,97.78,22,2005-06-01,2005-08-01,Foreign
+Shannon Freeman,India,Varanasi (Benares),97.77,23,2005-06-01,2005-08-01,New
+Mabel Holland,Myanmar,Monywa,97.75,25,2005-06-01,2005-08-01,Comedy
+Virgil Wofford,Mexico,Jos Azueta,97.75,25,2005-06-01,2005-08-01,Foreign
+Cassandra Walters,United States,Salinas,96.79,21,2005-07-01,2006-02-01,Documentary
+Carlos Coughlin,India,Bhavnagar,96.79,21,2005-06-01,2005-08-01,Comedy
+Nina Soto,India,Palghat (Palakkad),96.79,21,2005-07-01,2005-08-01,Children
+Louise Jenkins,South Africa,Springs,96.78,22,2005-06-01,2006-02-01,Sci-Fi
+Albert Crouse,Cameroon,Bamenda,96.78,22,2005-06-01,2006-02-01,Foreign
+Betty White,United States,Citrus Heights,96.77,23,2005-06-01,2006-02-01,Games
+Vincent Ralston,Mexico,Allende,96.77,23,2005-06-01,2005-08-01,Travel
+Micheal Forman,Argentina,Escobar,96.76,24,2005-07-01,2005-08-01,Animation
+Edward Baugh,Faroe Islands,Trshavn,96.76,24,2005-07-01,2006-02-01,Animation
+Velma Lucas,Nigeria,Effon-Alaiye,96.76,24,2005-07-01,2005-08-01,Drama
+Reginald Kinder,Indonesia,Madiun,96.75,25,2005-06-01,2005-08-01,New
+Melvin Ellington,China,Laohekou,96.75,25,2005-06-01,2006-02-01,Sci-Fi
+Denise Kelly,Brazil,Rio Claro,96.74,26,2005-06-01,2005-08-01,Travel
+Dwayne Olvera,India,Rajkot,95.8,20,2005-06-01,2005-08-01,Sports
+Connie Wallace,Russian Federation,Ivanovo,95.79,21,2005-06-01,2005-08-01,Horror
+Willard Lumpkin,Mexico,Carmen,95.79,21,2005-06-01,2005-08-01,Family
+Shane Millard,Mexico,La Paz,95.78,22,2005-06-01,2005-08-01,Drama
+Stacy Cunningham,Colombia,Pereira,95.78,22,2005-06-01,2006-02-01,Documentary
+Gary Coy,China,Yuzhou,95.78,22,2005-07-01,2006-02-01,Music
+Darren Windham,Italy,Livorno,95.78,22,2005-06-01,2005-08-01,Animation
+Walter Perryman,China,Xinxiang,95.76,24,2005-07-01,2005-08-01,Sports
+Ronnie Ricketts,Senegal,Ziguinchor,95.76,24,2005-06-01,2005-08-01,Sci-Fi
+Beth Franklin,Vietnam,Haiphong,95.76,24,2005-06-01,2006-02-01,New
+Esther Crawford,South Africa,Botshabelo,95.72,28,2005-06-01,2005-08-01,Animation
+Laura Rodriguez,Morocco,Sal,94.81,19,2005-06-01,2006-02-01,Foreign
+Nicole Peterson,India,Shivapuri,94.78,22,2005-06-01,2005-08-01,Family
+Danielle Daniels,Mexico,Hidalgo,94.78,22,2005-06-01,2005-08-01,Sports
+Brandy Graves,United States,Warren,94.77,23,2005-07-01,2005-08-01,Documentary
+Dorothy Taylor,Iran,Esfahan,94.76,24,2005-06-01,2005-08-01,Documentary
+Geraldine Perkins,Israel,Tel Aviv-Jaffa,94.76,24,2005-06-01,2005-08-01,New
+Suzanne Nichols,Indonesia,Jakarta,94.76,24,2005-06-01,2005-08-01,Games
+Carmen Owens,Venezuela,Caracas,94.75,25,2005-06-01,2006-02-01,Action
+Kevin Schuler,Nepal,Birgunj,93.83,17,2005-07-01,2005-08-01,Sci-Fi
+Claude Herzog,Angola,Benguela,93.8,20,2005-06-01,2005-08-01,Horror
+Edwin Burk,South Africa,Newcastle,93.8,20,2005-06-01,2005-08-01,Games
+Ronald Weiner,Mexico,San Felipe del Progreso,93.79,21,2005-07-01,2005-08-01,Games
+Francisco Skidmore,Brazil,So Leopoldo,93.79,21,2005-06-01,2005-08-01,Animation
+Dawn Sullivan,Tuvalu,Funafuti,93.78,22,2005-06-01,2005-08-01,Children
+Joshua Mark,India,Rampur,93.78,22,2005-07-01,2006-02-01,Animation
+Phillip Holm,Japan,Tama,93.76,24,2005-06-01,2005-08-01,Sci-Fi
+Tamara Nguyen,Brazil,Anpolis,93.75,25,2005-06-01,2006-02-01,Sports
+Martin Bales,Angola,Namibe,93.75,25,2005-06-01,2005-08-01,Animation
+Howard Fortner,Iran,Kermanshah,93.74,26,2005-06-01,2005-08-01,New
+Nancy Thomas,India,Yamuna Nagar,93.74,26,2005-06-01,2005-08-01,Drama
+Frances Parker,Brazil,Juazeiro do Norte,92.81,19,2005-06-01,2005-08-01,Comedy
+Cody Nolen,Brazil,So Bernardo do Campo,92.8,20,2005-06-01,2005-08-01,Sports
+Joseph Joy,Brazil,Angra dos Reis,92.8,20,2005-07-01,2005-08-01,New
+Andrea Henderson,Madagascar,Mahajanga,92.79,21,2005-06-01,2005-08-01,Horror
+Bruce Schwarz,Japan,Okinawa,92.79,21,2005-06-01,2005-08-01,Music
+Chester Benner,China,Suihua,92.78,22,2005-06-01,2005-08-01,Action
+Joel Francisco,Bolivia,Sucre,92.78,22,2005-06-01,2006-02-01,Animation
+Elmer Noe,Cambodia,Battambang,92.76,24,2005-06-01,2006-02-01,Sci-Fi
+Carole Barnett,United States,Peoria,92.75,25,2005-07-01,2005-08-01,Family
+Melanie Armstrong,Philippines,Bayugan,92.75,25,2005-06-01,2006-02-01,Drama
+Dustin Gillette,Netherlands,Emmen,92.75,25,2005-06-01,2006-02-01,Family
+Rafael Abney,Philippines,Talavera,91.81,19,2005-06-01,2006-02-01,Animation
+Ricardo Meador,Japan,Okayama,91.81,19,2005-06-01,2005-08-01,Games
+Wilma Richards,United States,Bellevue,91.8,20,2005-06-01,2005-08-01,Children
+Pamela Baker,China,Nanyang,91.79,21,2005-06-01,2005-08-01,Comedy
+Vicki Fields,Germany,Witten,91.78,22,2005-06-01,2005-08-01,Sports
+Travis Estep,Saudi Arabia,al-Qatif,91.78,22,2005-06-01,2006-02-01,Animation
+Sean Douglass,Ethiopia,Addis Abeba,91.77,23,2005-06-01,2005-08-01,Animation
+Ivan Cromwell,Mexico,Monclova,91.75,25,2005-06-01,2006-02-01,Sports
+Matthew Mahan,Mexico,Cuautla,91.75,25,2005-07-01,2005-08-01,Action
+Judith Cox,China,Daxian,91.7,30,2005-06-01,2006-02-01,Documentary
+Deanna Byrd,Philippines,Tuguegarao,90.78,22,2005-06-01,2005-08-01,Foreign
+Natalie Meyer,Brazil,Aparecida de Goinia,90.78,22,2005-06-01,2006-02-01,Travel
+Kelly Knott,China,Sanya,90.77,23,2005-06-01,2005-08-01,Animation
+Emily Diaz,South Korea,Kimchon,90.77,23,2005-06-01,2006-02-01,Sports
+Kathleen Adams,Iran,Arak,90.75,25,2005-06-01,2005-08-01,Music
+Derek Blakely,Philippines,Gingoog,90.73,27,2005-06-01,2005-08-01,Sci-Fi
+Hugh Waldrop,China,Haining,89.8,20,2005-06-01,2005-08-01,Classics
+Benjamin Varney,Mexico,Guadalajara,89.78,22,2005-06-01,2005-08-01,Action
+Andrew Purdy,Azerbaijan,Baku,89.78,22,2005-07-01,2005-08-01,Games
+Christine Roberts,French Polynesia,Faaa,89.78,22,2005-06-01,2006-02-01,New
+Beverly Brooks,Taiwan,Chiayi,89.78,22,2005-06-01,2006-02-01,Foreign
+Lillie Kim,Egypt,Idfu,89.77,23,2005-06-01,2005-08-01,Family
+Judy Gray,Algeria,Bchar,89.77,23,2005-06-01,2006-02-01,Sci-Fi
+Edgar Rhoads,Turkey,Eskisehir,89.77,23,2005-06-01,2005-08-01,Horror
+Jackie Lynch,Colombia,Buenaventura,89.77,23,2005-06-01,2005-08-01,Animation
+Bertha Ferguson,Nigeria,Ondo,89.77,23,2005-06-01,2005-08-01,Horror
+Darrell Power,Canada,Halifax,89.76,24,2005-06-01,2005-08-01,Sci-Fi
+Rebecca Scott,Japan,Kurashiki,89.76,24,2005-06-01,2005-08-01,Horror
+Lawrence Lawton,Cameroon,Yaound,89.71,29,2005-06-01,2006-02-01,Foreign
+Dora Medina,China,Tianjin,88.81,19,2005-06-01,2005-08-01,Games
+Stella Moreno,Mexico,Coacalco de Berriozbal,88.81,19,2005-06-01,2005-08-01,Sports
+Aaron Selby,"Congo, The Democratic Republic of the",Mwene-Ditu,88.8,20,2005-06-01,2005-08-01,Travel
+Anna Hill,Italy,Alessandria,88.8,20,2005-06-01,2006-02-01,Sports
+Mildred Bailey,India,Jaipur,88.78,22,2005-06-01,2006-02-01,Action
+Glenn Pullen,Netherlands,Amersfoort,88.78,22,2005-06-01,2005-08-01,Sports
+Georgia Jacobs,India,Uttarpara-Kotrung,88.77,23,2005-06-01,2005-08-01,Music
+Heather Morris,Japan,Nagareyama,88.76,24,2005-06-01,2006-02-01,Classics
+Pauline Henry,Mexico,Torren,88.75,25,2005-06-01,2005-08-01,Drama
+Theresa Watson,Philippines,Taguig,88.73,27,2005-06-01,2005-08-01,Horror
+Donna Thompson,Russian Federation,Elista,87.82,18,2005-06-01,2005-08-01,Foreign
+Tara Ryan,Indonesia,Gorontalo,87.81,19,2005-06-01,2005-08-01,Children
+Harvey Guajardo,Vietnam,Vinh,87.8,20,2005-06-01,2005-08-01,Classics
+Derrick Bourque,Canada,Gatineau,87.8,20,2005-06-01,2006-02-01,Family
+Kurt Emmons,Japan,Kanazawa,87.8,20,2005-06-01,2005-08-01,Classics
+Richard Mccrary,United States,Arlington,87.8,20,2005-07-01,2005-08-01,Foreign
+Loretta Carpenter,Canada,Oshawa,87.79,21,2005-06-01,2005-08-01,Family
+Maureen Little,Paraguay,Asuncin,87.79,21,2005-06-01,2005-08-01,Sci-Fi
+Charlotte Hunter,Brazil,guas Lindas de Gois,87.78,22,2005-06-01,2005-08-01,Sci-Fi
+Freddie Duggan,Peru,Sullana,87.77,23,2005-06-01,2006-02-01,Foreign
+Jack Foust,Russian Federation,Zeleznogorsk,87.77,23,2005-06-01,2005-08-01,Games
+Raul Fortier,India,Chapra,86.82,18,2005-06-01,2005-08-01,Animation
+Vanessa Sims,Germany,Siegen,86.81,19,2005-07-01,2005-08-01,Drama
+Lewis Lyman,Israel,Ashqelon,86.81,19,2005-06-01,2005-08-01,Action
+Ruben Geary,Poland,Lublin,86.81,19,2005-06-01,2005-08-01,New
+Nellie Garrett,India,Shimoga,86.81,19,2005-06-01,2005-08-01,Children
+Kelly Torres,China,Xiangtan,86.8,20,2005-06-01,2005-08-01,Action
+Erica Matthews,China,Pingxiang,86.8,20,2005-06-01,2005-08-01,Foreign
+Agnes Bishop,India,Sambhal,86.79,21,2005-06-01,2005-08-01,Sci-Fi
+Peggy Myers,Saudi Arabia,Abha,86.77,23,2005-07-01,2006-02-01,Sci-Fi
+Constance Reid,Nigeria,Zaria,86.77,23,2005-06-01,2005-08-01,Sci-Fi
+Chad Carbone,India,Katihar,86.76,24,2005-06-01,2005-08-01,Classics
+Allison Stanley,Cambodia,Phnom Penh,86.75,25,2005-06-01,2006-02-01,Foreign
+Lucy Wheeler,India,Balurghat,86.75,25,2005-06-01,2006-02-01,Documentary
+Ian Still,United States,Garland,86.75,25,2005-06-01,2006-02-01,Animation
+Wendy Harrison,Mexico,Nezahualcyotl,86.73,27,2005-06-01,2006-02-01,Classics
+Randall Neumann,Dominican Republic,La Romana,85.8,20,2005-06-01,2005-08-01,Foreign
+Alfredo Mcadams,Russian Federation,Serpuhov,85.8,20,2005-06-01,2005-08-01,Travel
+Willie Markham,Argentina,Almirante Brown,85.78,22,2005-06-01,2006-02-01,Documentary
+Jon Wiles,Bolivia,El Alto,85.78,22,2005-06-01,2005-08-01,Documentary
+Victor Barkley,United States,Manchester,85.78,22,2005-06-01,2005-08-01,Documentary
+Susan Wilson,New Zealand,Hamilton,85.77,23,2005-06-01,2005-08-01,Drama
+Kimberly Lee,Argentina,Crdoba,85.77,23,2005-06-01,2005-08-01,Family
+Jane Bennett,Brazil,Araatuba,85.77,23,2005-06-01,2005-08-01,Family
+Jay Robb,Indonesia,Surakarta,85.75,25,2005-06-01,2006-02-01,Drama
+Lonnie Tirado,Indonesia,Pangkal Pinang,84.84,16,2005-06-01,2005-08-01,Horror
+Doris Reed,Russian Federation,Balaiha,84.81,19,2005-06-01,2005-08-01,Games
+Julio Noland,Ukraine,Konotop,84.81,19,2005-06-01,2005-08-01,Family
+Mathew Bolin,Venezuela,Valencia,84.8,20,2005-06-01,2005-08-01,Sports
+Bonnie Hughes,South Korea,Cheju,84.8,20,2005-06-01,2005-08-01,Music
+James Gannon,Japan,Hiroshima,84.79,21,2005-07-01,2005-08-01,Drama
+Jennifer Davis,United States,Laredo,84.75,25,2005-06-01,2005-08-01,Drama
+Eva Ramos,United States,Clarksville,83.82,18,2005-06-01,2005-08-01,Sci-Fi
+Corey Hauser,Turkey,Gaziantep,83.81,19,2005-06-01,2005-08-01,Classics
+Leslie Gordon,Turkey,Kilis,83.8,20,2005-06-01,2005-08-01,Sci-Fi
+Bernard Colby,India,Dhule (Dhulia),83.79,21,2005-07-01,2006-02-01,Drama
+Wade Delvalle,Switzerland,Lausanne,83.78,22,2005-06-01,2005-08-01,Comedy
+Patrick Newsom,Vietnam,Hanoi,83.77,23,2005-07-01,2005-08-01,New
+Tyler Wren,China,Rizhao,82.81,19,2005-06-01,2006-02-01,Sports
+Bob Pfeiffer,China,Xintai,82.78,22,2005-06-01,2005-08-01,Classics
+Gene Sanborn,Oman,Salala,82.76,24,2005-06-01,2005-08-01,New
+Jared Ely,Indonesia,Purwakarta,81.83,17,2005-06-01,2005-08-01,Animation
+Vernon Chapa,Turkey,Denizli,81.83,17,2005-06-01,2005-08-01,Comedy
+Thomas Grigsby,United States,Kansas City,81.81,19,2005-07-01,2005-08-01,New
+Jason Morrissey,Argentina,Baha Blanca,81.81,19,2005-07-01,2005-08-01,Action
+Yvonne Watkins,Venezuela,Ocumare del Tuy,81.81,19,2005-06-01,2005-08-01,Travel
+Mark Rinehart,Saudi Arabia,Tabuk,81.8,20,2005-07-01,2005-08-01,Action
+Lorraine Stephens,China,Hami,81.8,20,2005-06-01,2005-08-01,Classics
+Barbara Jones,Myanmar,Myingyan,81.78,22,2005-06-01,2005-08-01,Horror
+Christian Jung,India,Amroha,81.78,22,2005-06-01,2006-02-01,Family
+Cory Meehan,Belarus,Mogiljov,81.76,24,2005-06-01,2006-02-01,Action
+Jessie Banks,Bulgaria,Stara Zagora,81.76,24,2005-06-01,2006-02-01,Foreign
+Megan Palmer,China,Laiwu,81.75,25,2005-06-01,2005-08-01,Action
+Paul Trout,Russian Federation,Kursk,80.85,15,2005-07-01,2005-08-01,Drama
+Oscar Aquino,Iran,Sirjan,80.83,17,2005-06-01,2005-08-01,Horror
+Eileen Carr,Paraguay,Ciudad del Este,80.82,18,2005-06-01,2005-08-01,Horror
+Steven Curley,India,Miraj,80.81,19,2005-07-01,2005-08-01,Sci-Fi
+Vivian Ruiz,Netherlands,s-Hertogenbosch,80.8,20,2005-06-01,2005-08-01,Animation
+Kristina Chambers,Venezuela,Valle de la Pascua,80.78,22,2005-07-01,2005-08-01,Horror
+Becky Miles,India,Tambaram,80.78,22,2005-07-01,2006-02-01,Documentary
+Keith Rico,Slovakia,Bratislava,80.77,23,2005-06-01,2005-08-01,Drama
+Roland South,China,Yingkou,80.77,23,2005-06-01,2006-02-01,Family
+David Royal,Peru,Callao,79.81,19,2005-07-01,2005-08-01,Sci-Fi
+Edna West,South Africa,Klerksdorp,79.81,19,2005-06-01,2005-08-01,Classics
+Jenny Castro,Puerto Rico,Ponce,79.8,20,2005-07-01,2006-02-01,Foreign
+Roberta Harper,Iran,Shahr-e Kord,79.8,20,2005-06-01,2005-08-01,Action
+Jesse Schilling,"Congo, The Democratic Republic of the",Lubumbashi,79.78,22,2005-06-01,2005-08-01,Games
+Clarence Gamez,Japan,Izumisano,79.75,25,2005-06-01,2005-08-01,Sci-Fi
+Frederick Isbell,Japan,Tsuyama,78.84,16,2005-06-01,2005-08-01,Foreign
+Austin Cintron,China,Tieli,78.82,18,2005-06-01,2005-08-01,Comedy
+Carol Garcia,Nigeria,Kaduna,78.81,19,2005-06-01,2005-08-01,Classics
+Dennis Gilman,South Africa,Paarl,78.8,20,2005-07-01,2005-08-01,Sports
+Margaret Moore,Oman,Masqat,78.8,20,2005-06-01,2006-02-01,Foreign
+Erika Pena,Finland,Oulu,78.79,21,2005-07-01,2005-08-01,Action
+Joan Cooper,United States,Saint Louis,78.79,21,2005-06-01,2005-08-01,Games
+Colleen Burton,Germany,Saarbrcken,78.78,22,2005-06-01,2006-02-01,Documentary
+Ricky Shelby,China,Junan,78.77,23,2005-06-01,2005-08-01,Travel
+Melinda Fernandez,Pakistan,Mandi Bahauddin,77.84,16,2005-06-01,2005-08-01,Sports
+Luis Yanez,France,Brest,77.81,19,2005-06-01,2005-08-01,Drama
+Emma Boyd,Egypt,Qalyub,77.81,19,2005-06-01,2005-08-01,Horror
+Chris Brothers,Spain,Gijn,77.8,20,2005-06-01,2006-02-01,Action
+Ernest Stepp,China,Huaian,77.79,21,2005-06-01,2005-08-01,Foreign
+Rita Graham,France,Toulon,77.78,22,2005-06-01,2005-08-01,Foreign
+Lydia Burke,Argentina,San Miguel de Tucumn,77.77,23,2005-06-01,2005-08-01,Documentary
+Marian Mendoza,Brazil,Maring,76.82,18,2005-06-01,2005-08-01,Sci-Fi
+Phyllis Foster,China,Zalantun,76.8,20,2005-06-01,2005-08-01,Classics
+Kim Cruz,United States,Grand Prairie,76.8,20,2005-06-01,2005-08-01,Games
+Pearl Garza,India,Jodhpur,76.78,22,2005-06-01,2005-08-01,Foreign
+Christina Ramirez,Saudi Arabia,al-Hawiya,75.83,17,2005-06-01,2005-08-01,Sports
+Leah Curtis,Poland,Kalisz,75.81,19,2005-07-01,2005-08-01,Children
+Samuel Marlow,India,Ranchi,75.8,20,2005-06-01,2005-08-01,Comedy
+Clayton Barbee,Brazil,Alvorada,75.79,21,2005-06-01,2005-08-01,Sci-Fi
+Darryl Ashcraft,Argentina,Ezeiza,75.78,22,2005-06-01,2006-02-01,Foreign
+Ida Andrews,Brazil,Luzinia,75.78,22,2005-06-01,2005-08-01,Sci-Fi
+Kristen Chavez,Japan,Hino,74.84,16,2005-06-01,2005-08-01,Animation
+Dwight Lombardi,South Africa,Chatsworth,74.83,17,2005-06-01,2005-08-01,Games
+Allen Butterfield,India,Hoshiarpur,74.83,17,2005-06-01,2006-02-01,Action
+Larry Thrasher,Turkey,Adana,74.81,19,2005-07-01,2006-02-01,Documentary
+Jacob Lance,United States,El Monte,74.8,20,2005-06-01,2005-08-01,Action
+Irene Price,Kazakstan,Pavlodar,74.79,21,2005-06-01,2005-08-01,Drama
+April Burns,United Kingdom,Dundee,74.77,23,2005-06-01,2006-02-01,Documentary
+Antonio Meek,Brazil,Bag,73.85,15,2005-06-01,2005-08-01,Children
+Toni Holt,United States,Roanoke,73.83,17,2005-07-01,2005-08-01,Family
+Danny Isom,Pakistan,Okara,73.82,18,2005-06-01,2005-08-01,Travel
+Rachel Barnes,Japan,Kamakura,73.81,19,2005-06-01,2005-08-01,Sci-Fi
+Alicia Mills,India,Nagaon,73.81,19,2005-06-01,2006-02-01,Comedy
+Herbert Kruger,Russian Federation,Syktyvkar,73.81,19,2005-06-01,2005-08-01,Music
+Lance Pemberton,Morocco,Beni-Mellal,73.8,20,2005-06-01,2005-08-01,Foreign
+Enrique Forsythe,Greece,Patras,73.78,22,2005-06-01,2006-02-01,Sports
+Gregory Mauldin,Tunisia,Sousse,73.78,22,2005-07-01,2006-02-01,Sci-Fi
+Norman Currier,Indonesia,Cianjur,73.76,24,2005-06-01,2006-02-01,Animation
+Paula Bryant,India,Pathankot,72.83,17,2005-06-01,2005-08-01,Action
+Armando Gruber,United Kingdom,Southport,72.82,18,2005-06-01,2005-08-01,Games
+Timothy Bunn,Brazil,Braslia,72.82,18,2005-07-01,2005-08-01,New
+Anne Powell,United Kingdom,Bradford,72.79,21,2005-06-01,2005-08-01,Travel
+Robert Baughman,Russian Federation,Kaliningrad,71.85,15,2005-07-01,2005-08-01,Sci-Fi
+Delores Hansen,Russian Federation,Jaroslavl,71.84,16,2005-06-01,2005-08-01,Children
+Norma Gonzales,Philippines,Bislig,71.81,19,2005-06-01,2006-02-01,Family
+Ray Houle,Russian Federation,Dzerzinsk,71.8,20,2005-06-01,2005-08-01,Travel
+Billie Horton,Turkey,Inegl,71.79,21,2005-07-01,2005-08-01,Comedy
+Samantha Duncan,Mexico,Matamoros,71.77,23,2005-06-01,2005-08-01,Sports
+Eugene Culpepper,China,Shenzhen,70.82,18,2005-06-01,2005-08-01,Comedy
+Irma Pearson,Philippines,Hagonoy,70.82,18,2005-06-01,2005-08-01,Animation
+Wayne Truong,India,Gulbarga,70.81,19,2005-06-01,2005-08-01,Animation
+William Satterfield,Yemen,Sanaa,70.81,19,2005-07-01,2005-08-01,Action
+Edith Mcdonald,India,Gandhinagar,69.83,17,2005-06-01,2005-08-01,Sports
+Franklin Troutman,China,Zaoyang,69.79,21,2005-06-01,2005-08-01,Drama
+Fred Wheat,Mexico,Jurez,69.79,21,2005-06-01,2006-02-01,Family
+Daniel Cabral,Brazil,Ibirit,68.87,13,2005-07-01,2005-08-01,Comedy
+Floyd Gandy,Mexico,Zapopan,68.84,16,2005-06-01,2005-08-01,Games
+Adrian Clary,Italy,Udine,68.82,18,2005-06-01,2006-02-01,Games
+Terry Grissom,Japan,Matsue,68.81,19,2005-06-01,2006-02-01,Action
+Felicia Sutton,China,Korla,68.77,23,2005-07-01,2005-08-01,Drama
+Jerome Kenyon,Chile,Rancagua,67.86,14,2005-06-01,2005-08-01,Foreign
+Kenneth Gooden,Israel,Bat Yam,67.86,14,2005-07-01,2006-02-01,New
+Ann Evans,Russian Federation,Niznekamsk,67.86,14,2005-06-01,2005-08-01,Music
+Vera Mccoy,Afghanistan,Kabul,67.82,18,2005-06-01,2005-08-01,Comedy
+Jeanette Greene,Russian Federation,Novoterkassk,66.82,18,2005-06-01,2006-02-01,Documentary
+Lloyd Dowd,Indonesia,Tegal,66.81,19,2005-06-01,2005-08-01,Foreign
+Alberto Henning,Venezuela,Barcelona,66.79,21,2005-06-01,2006-02-01,Documentary
+Kay Caldwell,China,Yantai,65.87,13,2005-07-01,2005-08-01,Documentary
+Jeffrey Spear,Indonesia,Ciparay,65.83,17,2005-07-01,2005-08-01,Games
+Jonathan Scarborough,Mexico,Pachuca de Soto,65.83,17,2005-06-01,2005-08-01,Animation
+Marvin Yee,India,Berhampore (Baharampur),65.81,19,2005-06-01,2005-08-01,Children
+Joann Gardner,Turkey,Tarsus,64.85,15,2005-06-01,2005-08-01,Drama
+Henry Billingsley,Tonga,Nukualofa,64.84,16,2005-06-01,2005-08-01,Sports
+Jose Andrew,Saint Vincent and the Grenadines,Kingstown,64.82,18,2005-07-01,2005-08-01,Horror
+Allan Cornish,Philippines,Tarlac,63.84,16,2005-06-01,2006-02-01,Children
+Donald Mahon,China,Ezhou,63.84,16,2005-07-01,2005-08-01,New
+Juan Fraley,Russian Federation,Teboksary,63.79,21,2005-06-01,2005-08-01,Music
+Felix Gaffney,Lithuania,Vilnius,63.78,22,2005-06-01,2006-02-01,Children
+Lester Kraus,India,Kanchrapara,62.85,15,2005-06-01,2005-08-01,Travel
+Nelson Christenson,Spain,Santiago de Compostela,62.84,16,2005-06-01,2005-08-01,Games
+Tony Carranza,Japan,Koriyama,61.82,18,2005-07-01,2005-08-01,Documentary
+Scott Shelley,United States,Aurora,60.82,18,2005-07-01,2006-02-01,Children
+Anita Morales,India,Hubli-Dharwad,59.86,14,2005-06-01,2005-08-01,Action
+Lauren Hudson,France,Le Mans,59.83,17,2005-06-01,2006-02-01,Sports
+Jill Hawkins,Austria,Linz,58.83,17,2005-06-01,2005-08-01,Classics
+Annie Russell,Mozambique,Tete,58.82,18,2005-06-01,2005-08-01,New
+Mattie Hoffman,United Kingdom,London,58.8,20,2005-06-01,2006-02-01,Drama
+Katherine Rivera,Switzerland,Basel,57.87,13,2005-07-01,2005-08-01,Sports
+Sheila Wells,Turkey,Ktahya,57.86,14,2005-06-01,2005-08-01,Documentary
+Johnny Turpin,Sudan,al-Qadarif,57.81,19,2005-06-01,2005-08-01,Music
+Penny Neal,India,Kumbakonam,56.84,16,2005-07-01,2005-08-01,Sports
+Jo Fowler,Nigeria,Oyo,54.85,15,2005-06-01,2005-08-01,Sci-Fi
+Bobbie Craig,Mexico,Valle de Santiago,52.81,19,2005-07-01,2005-08-01,Sports
+Kirk Stclair,Taiwan,Tsaotun,50.83,17,2005-06-01,2005-08-01,Drama
+Tiffany Jordan,China,Enshi,49.88,12,2005-06-01,2005-08-01,Drama
+Anthony Schwab,American Samoa,Tafuna,47.85,15,2005-07-01,2005-08-01,Sports
+Caroline Bowman,United States,Tallahassee,37.87,13,2005-06-01,2005-08-01,Sci-Fi
+Leona Obrien,China,Fuzhou,32.9,10,2005-07-01,2005-08-01,Family
+Brian Wyman,Poland,Bydgoszcz,27.93,7,2005-07-01,2005-08-01,Action
